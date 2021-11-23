@@ -5,3 +5,4 @@ Git tracks changes of files.
 I'm coming again to learn Git.
 
 I just use wechart talking with my mom.
+Creating a new branch is quick & simple.
